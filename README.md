@@ -61,9 +61,14 @@ To set up the project locally, follow these steps:
    npm install
    ```
 
-3. **Run the Application:**
+3. **Run the React JS Application:**
    ```bash
    npm start
+   ```
+
+4. **Run the Node JS and Express JS Application:**
+   ```bash
+   node app.js
    ```
 
 ---
